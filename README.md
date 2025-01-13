@@ -2,7 +2,7 @@
 
 An MSC Computer Science student with a background in physics. Most recently on my course I have been learning to use Java and JDBC.
 
-I have a strong enthusiasm for games and in my spare time I enjoy tinkering in Unreal Engine.
+I have a strong enthusiasm for games and in my spare time I enjoy tinkering with C++ in Unreal Engine.
 
 <!--
 **TClark00/TClark00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
